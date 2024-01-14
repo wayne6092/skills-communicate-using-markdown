@@ -4,3 +4,6 @@ Adding # and a space after it makes the following word(s) into a header, adding 
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
